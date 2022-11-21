@@ -37,7 +37,6 @@ Here's what I submitted:
 > I’m interested in supporting and learning more about co-op structures, especially as they relate to software infrastructure and open source.
 > 
 > I don’t have a current Mastodon account, and if I’m not going to run my own server, I’d like to support a group like this.
-
 ## What to use Mastodon for?
 
 My account is [bmann@social.coop](https://social.coop/@bmann). The way Mastodon works, Social.Coop is my "home server", but I can follow people on any Mastodon server, and anyone can follow me.[[aka a 'Federated' model, where there are central servers and some features within just that server, but protocols that allow servers to talk to each other, which supports people being able to communicate between servers. Versus peer-to-peer (p2p) where people would directly connect to each other without a server in the middle.::rmn]] Please do follow me / introduce yourself so I can follow you! It's been great to start from scratch in exploring the people on the [[Fediverse]] as it is called.
@@ -50,8 +49,7 @@ So what am I going to use this account for? It's definitely an overlap with [[Mi
 
 I think I'll do more cooking content there, but I'm not really going to focus on a bunch of output there.
 
-There are conversations happening in the Fediverse that aren't happening on centralized social media, so I'm definitely interested in that. And, in this emerging area of software co-ops. 
-
+There are conversations happening in the Fediverse that aren't happening on centralized social media, so I'm definitely interested in that. And, in this emerging area of software co-ops.
 ## Collectives Everywhere
 
 From Social.Coop, I learned about [[Meet.Coop]], which is a coop for running video conferencing software that is an alternative to Zoom. I may end up with a personal account through Social.Coop, and I'm considering buying a company account for [[Fission]].

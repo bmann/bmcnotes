@@ -65,7 +65,6 @@ In fact, join me on ~~February 23rd~~ March 3rd, 9:30am PST / 12:30pm EST / 18:3
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
 <br />
 I'll also drop a link to some BBB and Speakeasy rooms [on Twitter](https://twitter.com/bmann) to experiment with those platforms.
-
 ## Ideas & Links
 
 Drop in Audio for Ghost Members: build a plugin for Ghost that ties into the Members system, and do public or private rooms.
@@ -87,4 +86,4 @@ _Fun fact: this was the first blog post that started out as handwritten pages on
 
 ---
 
-_Update 2021-02-22:_ The Decentralized Open Networks talk is being re-scheduled to March 3rd. Links and registration above are all correct, just changed the date and added Simona as co-host. I also found [[Jam]] which very directly calls itself an open source alternative. 
+_Update 2021-02-22:_ The Decentralized Open Networks talk is being re-scheduled to March 3rd. Links and registration above are all correct, just changed the date and added Simona as co-host. I also found [[Jam]] which very directly calls itself an open source alternative.

@@ -39,4 +39,3 @@ With Flickr starting to look a bit wobbly, I'm going to look at hosting images h
 ### Update July 24, 2014:
 
 I moved off of Octopress and onto "plain" [[Jekyll]], using the [So Simple Theme](http://mmistakes.github.io/so-simple-theme/). I'm using [Dploy](http://dploy.io) connected to a [[Bitbucket]] private git repo to maintain the generated site on [[Amazon S3]].
- 

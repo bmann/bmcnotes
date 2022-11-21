@@ -48,7 +48,6 @@ I wasted a lot of time setting things up from scratch with a fresh clone of mMst
 The other thing that took a lot of time was setting up the Heroku Mailgun add-on. After you add it, you need to verify yourself, and then take a whole bunch of other steps in both Mailgun and your DNS / MX settings for it to be fully working. Do this right at the beginning.
 
 I’ve still got one piece of troubleshooting / bug to figure out with Amazon S3 settings where S3_BUCKET and S3_HOSTNAME duplicate each other (and even there I’m not going to bother doing SSL with Cloudfront, which means there is a mix of secure content and insecure images).
-
 ## Should people run their own software?
 
 In short, the answer is no. The level of expertise — and I’m not even talking digital literacy, I’m talking learned, professional expertise — that someone requires to run, maintains, and secure software is very high.</p>
@@ -62,7 +61,6 @@ With Heroku, database backups are included, it’s just a snapshot of code and c
 The folks building mMstodon are helpful to a point in getting things running on Heroku, but ultimately are focused on maintaining a more traditional software stack that they use for their own development and deployment. I think that going forward, applications need to be designed to be deployed in simpler fashion, with less of a “stack” and more pluggable components.
 
 What would a Mastodon that was designed to be run “serverless” look like?
-
 ## Decentralized and P2P apps of the future
 
 I’ve been working a lot with blockchain and other decentralized / P2P applications lately. I wrote about the [Akasha decentralized blogging platform]({% link _posts/blog/2017-02-13-akasha-cross-post-planting-tag-flag-vancouver-bowen-canada.md %}) that runs on the Ethereum blockchain, and I’ve also poked about with [[Beaker Browser]], which runs on [[Dat Protocol]] underneath.

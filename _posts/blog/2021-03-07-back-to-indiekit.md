@@ -43,7 +43,6 @@ In the reboot of this site I’ve always had Journals, but they were this weird 
 So I made Journal Logs: smaller pieces of text that are more situated around capturing a thought, a web page, or something to flesh out as full notes and research later. 
 
 I’ve been enjoying it. It’s like [[RSS Club]]: without broadcasting on social, people can [subscribe to these journal logs](/feed/journal.xml), but these posts are very much just little chunks of text out of my brain. I’m writing them **for me**. People are welcome to follow along, but they will likely lack context.
-
 ## Bookmarks
 
 Since IndieKit supports many of the different [[Micropub]] post types, I ended up enabling [[Bookmarks]] too. 
@@ -52,8 +51,7 @@ They are styled a little differently and are a good way to capture links to tool
 
 This is probably the closest to overlapping with my existing Notes, where I do have optional `link` and/or `git` properties. The difference being, they just flow into the Daily Logs and aren’t captured as a first class note, on purpose. 
 
-If I later do more with the Bookmarked item, it can become a full Note. 
-
+If I later do more with the Bookmarked item, it can become a full Note.
 ## Other Post Types 
 
 I looked at “Likes” as well but that got to be too many items to choose between: should this be a Like or a Bookmark?
@@ -61,7 +59,6 @@ I looked at “Likes” as well but that got to be too many items to choose betw
 Reply, RSVP, and [other Micropub post types](https://indieweb.org/Micropub#Examples_of_Creating_Objects) I’m not planning on using. 
 
 In part because I have to build custom templates for them, and also because of inconsistent support in Micropub clients
-
 ## Micropub Clients
 
 [[Indigenous]] for iOS is what I used to use but it is no longer maintained and doesn’t work any more. 
@@ -75,21 +72,18 @@ In fact, I use Quill even on my desktop, when I’m a click away from my [[VSCod
 Constrained interface, type a few things, and post. Don’t get distracted by immediately defining all the [[wikilinks]] you just added to the log item. 
 
 I think I might like to build a simple web-based [[Micropub Client]]. I’d like to see more of them, to have people tinker with editing interfaces as much as they tinker with the content publishing & display systems of their blogs.
-
 ## On This Day
 
 I might try and implement some sort of On This Day feature. This would be generated when I build the site, so it’s a display format for me: if I make at least one post on a day, my site would pull in any other posts made on that day. 
 
-This one way to be reminded of content on the site, and further extend and refer to it. 
-
+This one way to be reminded of content on the site, and further extend and refer to it.
 ## Errata
 
 I still need to troubleshoot uploading images. There have been a couple of times where I wanted to post a screenshot, which I think would be the main use case. 
 
 I also haven’t figured out full templating. Bookmarks use a `bookmark-of` front matter property, and it would make templating simpler to just use the `link` property I use for notes. `categories` is the default 
 
-And feeds. All my feeds need some work I think. 
-
+And feeds. All my feeds need some work I think.
 ## Recommending IndieKit
 
 This post is sort of a weird mix of workflow, notes to self, and pointers to the tools I used.
@@ -101,5 +95,3 @@ I configured IndieKit to power this strange journal log system, that works for m
 If you want to tinker with your digital garden or personal blog publishing, I can recommend [[IndieKit]]. It’s a single `index.js` file that runs great on the free Hobby tier of Heroku. My [source code is on GitHub](https://github.com/bmann/indiekit-bmcgarden).
 
 Do you have a convoluted workflow or quirky IndieWeb integration into your site? Tell me about it!
-
-
