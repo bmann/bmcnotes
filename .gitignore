@@ -8,3 +8,4 @@ assets
 tiddlywiki/output/*
 .DS_Store
 logseq/.recycle
+logseq/bak
