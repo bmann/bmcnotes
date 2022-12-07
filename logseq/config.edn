@@ -298,4 +298,5 @@
  :file/name-format :triple-lowbar
  :feature/enable-flashcards? false
  :graph/settings {:journal? true}
+ :editor/preferred-pasting-file? true
  }
