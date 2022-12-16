@@ -230,7 +230,7 @@
  ;; By default, property value separated by commas will not be treated as
  ;; page references. You can add properties to enable it.
  ;; E.g. :property/separated-by-commas #{:alias :tags}
- ;; :property/separated-by-commas #{}
+ :property/separated-by-commas #{:tags}
 
  ;; logbook setup
  ;; :logbook/settings
@@ -299,4 +299,5 @@
  :feature/enable-flashcards? false
  :graph/settings {:journal? true}
  :editor/preferred-pasting-file? true
+ :publishing/all-pages-public? true
  }
