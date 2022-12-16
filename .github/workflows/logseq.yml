@@ -28,8 +28,8 @@ jobs:
           branch: gh-pages # The branch the action should deploy to.
           folder: www # The folder the action should deploy.
           # clean: true # don't overwrite jekyll rendered content in there
-      - name: 🚀 fission publish # Fission Deploy
-        uses: fission-suite/publish-action@v1
-        with:
-            machine_key: ${{ secrets.FISSION_KEY }}
-            build_dir: www
+    #  - name: 🚀 fission publish # Fission Deploy
+    #    uses: fission-suite/publish-action@v1
+    #    with:
+    #        machine_key: ${{ secrets.FISSION_KEY }}
+    #        build_dir: www
