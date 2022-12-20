@@ -300,4 +300,6 @@
  :graph/settings {:journal? true}
  :editor/preferred-pasting-file? true
  :publishing/all-pages-public? true
+ :feature/enable-timetracking? false
+ :feature/enable-whiteboards? true
  }
