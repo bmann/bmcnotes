@@ -1,3 +1,3 @@
-tags:: #person, #author
+tags:: #Person, #author
 
 -

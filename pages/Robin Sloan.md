@@ -1,4 +1,4 @@
-tags:: #person, #writer
+tags:: #Person, #writer
 
 - link:: https://www.robinsloan.com/
 - avatar:: ![2022-12-06-20-16-09.jpeg](../assets/2022-12-06-20-16-09.jpeg)

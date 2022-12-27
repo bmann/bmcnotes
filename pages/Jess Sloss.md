@@ -1,3 +1,3 @@
-tags:: #person, #Vancouver, #crypto
+tags:: #Person, #Vancouver, #crypto
 
 -
