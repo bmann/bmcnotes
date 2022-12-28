@@ -1,2 +1,5 @@
+alias:: People
+supertag:: true
+
 -
 -

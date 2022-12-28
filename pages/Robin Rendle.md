@@ -1,6 +1,5 @@
 tags:: #Person
-
 ActivityPub:: https://sfba.social/@fonts
+link::  https://robinrendle.com
 
-- link:: https://robinrendle.com
 -
