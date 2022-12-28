@@ -1,4 +1,4 @@
-tags:: #LogSeq, #[[Github Pages]], #[[Github Actions]]
+tags:: #LogSeq, #[[Github Pages]], #[[Github Actions]], #howto
 
 - Check your #LogSeq folder into a Git repo
 - Use the [[logseq-publish]] action by Pengx17 in a GitHub Action

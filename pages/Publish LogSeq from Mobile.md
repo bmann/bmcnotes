@@ -1,3 +1,5 @@
+tags:: #howto, #mobile, #logseq, #[[Working Copy]]
+
 - Use the #LogSeq iOS app
 - Use the paid pro version of [[Working Copy]] to link the folder where you keep your LogSeq graph to the upstream Git repo where you have it checked in
 - Use LogSeq as you would normally on mobile
