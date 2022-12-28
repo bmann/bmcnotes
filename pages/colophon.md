@@ -29,7 +29,7 @@
 		- As of May 2020:
 		- Did some research on Markdown-based flat file / git wikis, thinking about integrating with [my blog](https://blog.bmannconsulting.com)
 		- After looking at the options, keeping the wiki separate and keeping it as WikiJS still makes sense; this was originaly `wiki.bmann.ca` (which now redirects here) and the bulk of it was food / travel stuff aka [[Duck Ramen Wiki]]
-		- Imported the [[Jekyll]]-based blog that was at `bmannconsulting.com` into the [[BMC Archive]] including bringing in some trimmed and posterous-era stuff back online
+		- Imported the [[Jekyll]]-based blog that was at `bmannconsulting.com` into the [[BMC/Archive]] including bringing in some trimmed and posterous-era stuff back online
 		- _Still a WIP, and will write up a blog post once things have settled_
 	- ## `wiki.bmann.ca` WikiJS (Aug 2018)
 		- As of August 6th, 2018:

@@ -2,7 +2,7 @@ tags:: #LogSeq, #[[Github Pages]], #[[Github Actions]], #howto
 
 - Check your #LogSeq folder into a Git repo
 - Use the [[logseq-publish]] action by Pengx17 in a GitHub Action
-	- Example in the #bmcgarden repo that publishes this site https://github.com/bmann/bmcgarden/blob/logseqconversion/.github/workflows/logseq.yml
+	- Example in the #BMC/Garden repo that publishes this site https://github.com/bmann/bmcgarden/blob/logseqconversion/.github/workflows/logseq.yml
 - Turn on GH Pages publishing for the repo
 - Flip the “all pages public when publishing” in Settings > Editor OR set `public:: true` on individual pages
 	- You can set public to false to selectively have private pages

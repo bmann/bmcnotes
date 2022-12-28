@@ -1,7 +1,7 @@
 alias:: LogSeq Conversion
 
-- The conversion of [[bmcgarden]] to #LogSeq
-- DONE Figure out how to include the ~~blog and~~ [[BMC Archive]] for searching and linking
+- The conversion of [[BMC/Garden]] to #LogSeq
+- DONE Figure out how to include the ~~blog and~~ [[BMC/Archive]] for searching and linking
   collapsed:: true
 	- Technically included in the graph now
 	- Trying out `archive:: true` and changing `created` from a Unix time stamp to a LogSeq compatible and human readable `Jun 1st, 2003`

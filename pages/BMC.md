@@ -1,0 +1,2 @@
+- Shorthand for this site and root domain name `‘bmannconsulting.com`
+-

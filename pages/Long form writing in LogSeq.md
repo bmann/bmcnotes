@@ -4,6 +4,6 @@ author:: [[Aryan Sawhney]]
 published:: [[Apr 20th, 2022]]
 
 - [[Logseq Focus Mode]], a plugin
-- [[LogSeq Document Mode]]
+- [[LogSeq/Document Mode]]
 - Some CSS tweaks, plus full [[LogSeq Themes]]
 -
