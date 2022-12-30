@@ -1,4 +1,5 @@
 filters:: {"bmc/backlog" false, "Dec 29th, 2022" false}
+alias:: Home
 
 - This is my space for Notes[^1], saving and highlighting Articles and other Links[^2].
 - ## Featured Blogs

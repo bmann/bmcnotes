@@ -1,8 +1,8 @@
 link:: http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html
+published:: [[Mar 1st, 2015]]
+tags:: #article, #orgdesign
+author:: [[Simon Wardley]]
 
-- published:: [[Mar 1st, 2015]]
-- tags:: #article, #orgdesign
-- author:: [[Simon Wardley]]
 - The full blog post is titled [On Pioneers, Settlers, Town Planners and Theft](http://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html)
 - The concept of Pioneers, Settlers, and Town Planners is something that I share with many people in thinking about their organizations. I learned it from Simon Wardley in the linked article, and have been sharing it ever since.
 - I find it a really useful way to think about the role of people within an organization, and what a person is best suited for. I am a Pioneer-to-Settler kind of guy.

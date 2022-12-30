@@ -1,6 +1,6 @@
 link:: https://trust.support/feed/moving-castles
+published:: [[Aug 2nd, 2021]]
 
-- published:: [[Aug 2nd, 2021]]
 - tags:: #article, #[[cozy web]], #[[dark forest]]
 - A growing number of subcultures, digital communities and guilds have turned their back on ad-supported social media and migrated their social and cultural activities to semi-private digital spaces, chat rooms and Discord servers. We believe these spaces have the potential to become decentralised institutions that are financed, owned and governed by their own members. To support this vision we propose Moving Castles, an organisational metaphor and real-time media type which combines collective agency and public participation in modular and portable multiplayer miniverses.
 - Not islands or dark forests, but vehicles
