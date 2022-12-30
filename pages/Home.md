@@ -1,0 +1,13 @@
+- This is the new home page!
+- I could pin a few featured blog posts up here
+- Could use [[LogSeq/Favorites]] to power a query
+- ---
+- TODO Figure out queries for the Home page #BMC/Backlog
+- ## Recent Journals
+	- Last 7 days
+- ## Recent Notes
+	- Pages that aren’t journals and aren’t tagged with #article
+- ## Recent Articles
+	- Last N tagged with #article
+	- Which means it has #link and #published
+	-
