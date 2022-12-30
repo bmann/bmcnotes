@@ -73,7 +73,7 @@
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
-:default-home {:page "Boris Mann's Digital Notes Garden" :sidebar ["Contents"]}
+:default-home {:page "Boris Mann's Digital Notes Garden" :sidebar "Contents"}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -208,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["The Extended Internet Universe" "The Dark Forest Theory of the Internet" "Wardley Maps" "Pioneers, Settlers, and Town Planners" "When Tailwinds Vanish: The Internet in the 2020s" "Gumroad No Full Time Employees" "Moving Castles: Modular and Portable Multiplayer Miniverses"]
+ :favorites ["Boris Mann’s Digital Notes Garden" "The Extended Internet Universe" "The Dark Forest Theory of the Internet" "Wardley Maps" "Pioneers, Settlers, and Town Planners" "When Tailwinds Vanish: The Internet in the 2020s" "Gumroad No Full Time Employees" "Moving Castles: Modular and Portable Multiplayer Miniverses"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -230,7 +230,7 @@
  ;; By default, property value separated by commas will not be treated as
  ;; page references. You can add properties to enable it.
  ;; E.g. :property/separated-by-commas #{:alias :tags}
- :property/separated-by-commas #{:tags}
+ :property/separated-by-commas #{:alias :tags}
 
  ;; logbook setup
  ;; :logbook/settings
