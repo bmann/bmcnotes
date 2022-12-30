@@ -1,3 +1,6 @@
+created:: [[May 21st, 2012]]
+tags:: #BMC
+
 - The first post — [[Welcome to B Mann Consulting]] — on this site running [[Drupal]] was November 9th, [[2002]]. The next post was asking for a [[Dream CMS]]. I don't think I've found it with [Octopress](http://octopress.org), but I'm having fun learning the ins and outs.
 - As of [[May 21st, 2012]] I've migrated the bulk of the BMC site to Octopress, and am hosting it directly on Amazon S3.
 - The source Drupal site is still up and running at [Omega8.cc](http://omega8.cc), which is still my recommendation for managed Drupal hosting that is relatively low on custom code (e.g. custom theme + a couple of modules or an install profile). [Pantheon](http://www.getpantheon.com) or one of [Acquia's](http://www.acquia.com) hosting options are probably your best bet for larger scale custom Drupal web-app hosting.

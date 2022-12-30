@@ -1,0 +1,4 @@
+- You can [request an archive of your tweets following the Twitter Help Center instructions](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)
+- You’ll eventually get a link to a zip file to download
+-
+-
