@@ -1,2 +1,3 @@
 - Shorthand for this site and root domain name `‘bmannconsulting.com`
+- The [[colophon]] documents the evolution of it
 -

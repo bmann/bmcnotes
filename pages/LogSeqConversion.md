@@ -13,9 +13,12 @@ alias:: LogSeq Conversion
 	- Keep an archive folder and a blog folder
 - TODO Convert more recent blog posts
 	- Needs a plan for footnotes, currently uses [[Littlefoot]] which I quite like
+	- LogSeq supports Markdown footnotes already, so let’s just make a backlog item
+	- LATER Support [[Littlefoot]] for footnotes in published LogSeq [[BMC/Backlog]]
 - TODO Flow for new blog posts
 	- Use #published to give them a date
-	- Tag them with #blog
+	- ~~Tag them with #blog~~
+	- Use property [[BMC/Blog]]
 	- Turn off outline bullets / special styling?
 - TODO What goes on the home page, how to theme a custom home page for LogSeq
 - TODO Troubleshoot Fission publishing

@@ -1,0 +1,5 @@
+- Recent blog posts from the `_posts/blog` folder
+- There is a [[type]] property I am using here
+- `blog` is the string I’m using to indicate blog posts
+- `archive` would be for [[BMC/Archive]]
+-
