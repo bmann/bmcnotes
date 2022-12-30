@@ -12,6 +12,7 @@ link:: https://sahillavingia.com/work
 	- [What does working at Gumroad feel like?](https://www.notion.so/gumroad/What-does-working-at-Gumroad-feel-like-7d9fd1c9548245a58afe5569d76a7960)
 	- [What's not so good at Gumroad?](https://www.notion.so/gumroad/What-s-not-so-good-at-Gumroad-847e3c285b1f45ab955ebacf52867900)
 - Today, working at Gumroad resembles working on an open source project like Rails. Except it’s neither open source, nor unpaid.
+  id:: 639e2ccd-7000-429b-8548-945cff4e5385
 - There are no deadlines either. We ship incrementally, and launch things whenever the stuff in development is better than what’s currently in production. The occasional exception does exist, such as a tax deadline, but as a rule, I try not to tell anyone what to do or how fast to do it. When someone new joins the company, they do what everyone else does: go into our Notion queue, pick a task, and get to work, asking for clarification when needed.
 - Instead of setting quarterly goals or using OKRs, we move towards a single north star: maximizing how much money creators earn. It’s simple and measurable, allowing anyone in the company to do the math on how much a feature or bug-fix might be worth.
 - People work at Gumroad as little as they need to sustain the other parts of their lives they prefer to spend their time and energy on: a creative side-hustle, their family, or anything else.

@@ -8,5 +8,6 @@ funding:: https://www.patreon.com/tinysubversions
 - Please [check out our wiki](https://github.com/hometown-fork/hometown/wiki) for a list of Hometown-exclusive features. Some but not all of these are covered in this document.
 - Features
 	- [[Hometown/Character Limit]]
+	  id:: 63ae169c-2cb4-4580-8ab5-330679e0488f
 	- [[Hometown/Full Length Article Posts]]
 	-

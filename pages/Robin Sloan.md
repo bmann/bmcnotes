@@ -6,4 +6,4 @@ avatar:: ![2022-12-06-20-16-09.jpeg](../assets/2022-12-06-20-16-09.jpeg)
 	- co-owner of Fat Gold and co-author of this guide to extra virgin olive oil
 	- one half of The Cotton Modules, a band
 	- programmer of this app, this e-book template, etc.
-- [[Robin Sloan’s Lab Newsletter]]
+- {{embed [[Robin Sloan’s Lab Newsletter]]}}

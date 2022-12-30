@@ -1,21 +1,13 @@
----
-title: Projects
-date: 2020-09-28
-modified: 2021-02-20
----
-
-## Current Projects
-
-* [[Venture Scouts]] [[2020]]
-* [[Cobuilding]] [[2020]]
-* [[Moa Party]] and [[Connecting to the Agora]] [[2021]]
-
+- ## Current Projects
+  
+  * [[Venture Scouts]] [[2020]]
+  * [[Cobuilding]] [[2020]]
+  * [[Moa Party]] and [[Connecting to the Agora]] [[2021]]
 ## Backlog
 
 * [[Custom Bags in Vancouver]] -- I want to test my [[Ship IP Not Product]] ideas, and make a template for forming a group, designing a bag, and finding local makers and supply chain to make items locally, on demand
 * [[Community ISP]] -- can we form co-ops and collectives and create community ISPs?
 * [[Vancouver Local Makers Directory]] -- a list of made in [[Vancouver]] items, ideally with direct call to purchase
-
 ## Older Projects & Events
 
 * [[Berlin Open Source Salon]] - [[2019]]
