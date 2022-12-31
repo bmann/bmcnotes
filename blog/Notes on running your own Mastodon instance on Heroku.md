@@ -1,5 +1,6 @@
 published:: [[April 15th, 2017]] 
 tags:: #Heroku, #Mastodon, #[[Deploy To Heroku]]
+type:: blog
 
 - [[Darren Barefoot]] kicked off a <a href="https://www.facebook.com/dbarefoot/posts/10155060142235600" data-href="https://www.facebook.com/dbarefoot/posts/10155060142235600" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">discussion on Facebook</a> asking if people wanted to run Mastodon locally:
 	- > Who wants to help me set up a Mastodon instance for Vancouver-related stuff? I’ll provide the moral support, promotion and pay for hosting if someone wants to do the hard technical bits.

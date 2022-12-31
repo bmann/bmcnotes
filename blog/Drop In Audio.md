@@ -1,17 +1,8 @@
----
-title: Drop in Audio
-date: '2021-02-13T23:34:34-07:00'
-modified: 2021-02-22
-categories:
-  - Commons
-tags:
-  - Clubhouse
-  - social network
----
+published:: [[Feb 13th, 2021]]
+tags:: #Clubhouse, #[[social network]]
+type:: blog
 
-I finally signed up for [Clubhouse](https://www.joinclubhouse.com/), the new drop in audio based social network. Mainly, it was so that the flood of invites would stop.[^clubhouseinvite]
-
-[^clubhouseinvite]: Yes, I have invites, yes I'm happy to invite you if you want to try it out.
+- I finally signed up for [Clubhouse](https://www.joinclubhouse.com/), the new drop in audio based social network. Mainly, it was so that the flood of invites would stop.[^clubhouseinvite]
 
 But my first drop in audio experience was actually with [Soapbox](https://soapbox.social), an app built by some Berlin based friends. I had a great chat with Mike in Chicago, and a few others wandered in and we ended up talking about BBQ sauces. There's also an "audio stories" feature, where you can record messages that followers can listen to. 
 
@@ -38,7 +29,7 @@ Big Blue Button (BBB) is a platform I've been experimenting with, which is a mor
 
 Discord servers have great multi-person voice channels, Twilio has long had programmable audio for building these types of experiences, and this [TechCrunch article from back in April 2020 covers a host of other audio first startups](https://techcrunch.com/2020/04/18/clubhouse-app-chat-rooms/).
 
-## Social Networks Aren't About Tech
+- ## Social Networks Aren't About Tech
 
 But of course, social networks aren't primarily about the technology powering them.
 
@@ -49,8 +40,6 @@ The day after Claire gave me a tour, I went for a walk and decided to explore a 
 We had a good chat about how web-based drop in audio has a real disadvantage us. native mobile app notifications drawing you back in.[^carter]
 
 Carter pointed out that "where your friends are" really drives early network formation. This is a good point, and Clubhouse itself leans into Twitter and Instagram (and your phone's address book of contact phone numbers).
-
-[^carter]: Plus a bunch of other topics, like pandemic & US politics being a downer, Pacific North West snow, DevRel evolution. It was definitely nice that Carter "picked up" and we could just chat for a bit and catch up.
 
 Twitter login for web based drop in audio (or Mastodon or other existing social networks) is key for making it easy to grow your network.
 
@@ -64,19 +53,20 @@ In fact, join me on ~~February 23rd~~ March 3rd, 9:30am PST / 12:30pm EST / 18:3
 <a href="https://lu.ma/event/evt-4hubOg6pSTUk3jS" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-4hubOg6pSTUk3jS">Sign up for Decentralized Open Networks, Mar 3rd</a>
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
 <br />
+
 I'll also drop a link to some BBB and Speakeasy rooms [on Twitter](https://twitter.com/bmann) to experiment with those platforms.
-## Ideas & Links
+
+- ## Ideas & Links
 
 Drop in Audio for Ghost Members: build a plugin for Ghost that ties into the Members system, and do public or private rooms.
 
 [Speakeasy](https://speakeasy.co) is currently video, make an option to configure rooms to be audio-only
 
-[Big Blue Button](https://bigbluebutton.org/) originally started as. The Greenlight add on [github.com/bigbluebutton/greenlight](https://github.com/bigbluebutton/greenlight) makes for a simpler user interface, which you can [checkout in the Meet.coop demo](https://demo.meet.coop/). It's written in Rails
-soap box. Social
+[Big Blue Button](https://bigbluebutton.org/) originally started as. The Greenlight add on [github.com/bigbluebutton/greenlight](https://github.com/bigbluebutton/greenlight) makes for a simpler user interface, which you can [checkout in the Meet.coop demo](https://demo.meet.coop/). It's written in Rails.
 
 [Twilio](https://www.twilio.com/) is the king of programmable audio. Here's a recent [tutorial on building a Twilio Video chat app with React](https://www.twilio.com/blog/build-a-custom-video-chat-app-with-react-and-twilio-programmable-video) -- would be simple for them to make an audio chat tutorial as well. 
 
-[Matrix](https://matrix.org) supports voice and video already, as well as rooms with various permissions. Building a Matrix based drop in audio client is probably the closest fit in terms of having a full stack of social network features already -- and it's already decentralized and federated, where you can run your own home server.
+[[Matrix]] supports voice and video already, as well as rooms with various permissions. Building a Matrix based drop in audio client is probably the closest fit in terms of having a full stack of social network features already -- and it's already decentralized and federated, where you can run your own home server.
 
 A Discord bot and built in voice channels could probably do something interesting.
 
@@ -86,4 +76,9 @@ _Fun fact: this was the first blog post that started out as handwritten pages on
 
 ---
 
-_Update 2021-02-22:_ The Decentralized Open Networks talk is being re-scheduled to March 3rd. Links and registration above are all correct, just changed the date and added Simona as co-host. I also found [[Jam]] which very directly calls itself an open source alternative.
+- Update [[Feb 22nd, 2021]]
+- The Decentralized Open Networks talk is being re-scheduled to [[March 3rd, 2021]]. Links and registration above are all correct, just changed the date and added Simona as co-host. I also found [[Jam]] which very directly calls itself an open source alternative.
+
+- [^clubhouseinvite]: Yes, I have invites, yes I’m happy to invite you if you want to try it out.
+ 
+- [^carter]: Plus a bunch of other topics, like pandemic & US politics being a downer, Pacific North West snow, DevRel evolution. It was definitely nice that Carter “picked up” and we could just chat for a bit and catch up.

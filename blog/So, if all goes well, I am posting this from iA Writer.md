@@ -1,25 +1,18 @@
----
-title: 'So, if all goes well, I am posting this from iA Writer'
+published:: [[May 14th, 2020]]
 date: 2020-05-14T13:39:19.233-07:00
-category:
-- Blog
-tag:
-- micropub
-- iAWriter
-- IndieKit
-- IndieAuth
----
-So, if all goes well, I am posting this from @iAWriter. I saw the news from [Manton’s post that this works with @MicroDotBlog](https://www.manton.org/2020/05/13/ia-writer-adds.html). Micropub as a posting API is picking up!
-<!-- more -->
-It initially didn't work:
+tags:: #Micropub, #iAWriter, #IndieKit, #IndieAuth
+type:: blog
+
+- So, if all goes well, I am posting this from @iAWriter. I saw the news from [Manton’s post that this works with @MicroDotBlog](https://www.manton.org/2020/05/13/ia-writer-adds.html). Micropub as a posting API is picking up!
+
+- It initially didn't work:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">this is great. Saw the news from 
 @mantonsblog that you've got Micropublish support.<br />
 <br />
-Tried it with my custom endpoint, and you're not requesting "create" or "media" scopes https://indieweb.org/scope</p>&mdash; Boris Mann (@bmann) <a href="https://twitter.com/bmann/status/1260639598419550208">May 13, 2020</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Tried it with my custom endpoint, and you're not requesting "create" or "media" scopes https://indieweb.org/scope</p>&mdash; Boris Mann (@bmann) <a href="https://twitter.com/bmann/status/1260639598419550208">May 13, 2020</a>
 
-Reading further into the IndieAuth spec, scope is not required. If you have a token, then "create" scope is the default minimal scope.
+- Reading further into the IndieAuth spec, scope is not required. If you have a token, then "create" scope is the default minimal scope.
 
 I had to [patch IndieKit](https://github.com/paulrobertlloyd/indiekit/issues/222) (which is the micropub server I run to publish here) to get this working. But it did work!
 
