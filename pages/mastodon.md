@@ -1,9 +1,10 @@
-tags:: #opensource, #microblog, #Rails, #Fediverse, #ActivityPub, #server
+tags:: #opensource, #microblog, #Rails, #Fediverse, #ActivityPub, #ActivityPub/Server 
 link:: https://joinmastodon.org
 github:: https://github.com/mastodon/mastodon
 funding:: https://www.patreon.com/mastodon
 
-- Mastodon is an open source federated microblogging platform
+- Mastodon is an open source federated microblogging platform, implementing the #ActivityPub protocol
+	- It’s an [[ActivityPub/Server]]
 - The Mastodon documentation site https://docs.joinmastodon.org/ covers what a microblog and federation are:
 - > Similar to how blogging is the act of publishing updates to a website, microblogging is the act of publishing small updates to a stream of updates on your profile. You can publish text posts and optionally attach media such as pictures, audio, video, or polls. Mastodon lets you follow friends and discover new ones.
   > 

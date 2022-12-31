@@ -1,4 +1,4 @@
-tags:: #ActivityPub, #GoLang 
+tags:: #ActivityPub, #GoLang, #Blogging, #ActivityPub/Server 
 link:: https://writefreely.org
 github:: https://github.com/writefreely/writefreely
 

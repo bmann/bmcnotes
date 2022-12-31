@@ -2,10 +2,9 @@ filters:: {"bmc/backlog" false, "Dec 29th, 2022" false}
 alias:: Home
 
 - This is my space for Notes[^1], saving and highlighting Articles and other Links[^2].
-- ## Featured Blogs
-  
-  * [[Running Moa Party as a public utility]]
-  * [[reMarkable Tablet First Usage]]
+- ## Recent
+	- Explore #mastodon related content
+	- Thinking about your [[Twitter/Archive]]?
 - ## Seeds
   
   > ((63901096-6a18-429e-8f4d-00eeb63b12a7))
