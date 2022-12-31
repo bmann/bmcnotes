@@ -9,13 +9,18 @@ alias:: LogSeq Conversion
 	- Maybe I’ll just slowly convert? I think so!
 	- Pages remain in the same folder, but with a filename the same as the page name
 	- #completed [[Dec 27th, 2022]]
-- TODO Move posts out of _posts structure
+- DONE Move posts out of _posts structure
+  collapsed:: true
 	- Keep an archive folder and a blog folder
+	- #completed [[Dec 30th, 2022]]
+		- Made the move on desktop
 - TODO Convert more recent blog posts
 	- Needs a plan for footnotes, currently uses [[Littlefoot]] which I quite like
 	- LogSeq supports Markdown footnotes already, so let’s just make a backlog item
-	- LATER Support [[Littlefoot]] for footnotes in published LogSeq [[BMC/Backlog]]
+	- DONE Support [[Littlefoot]] for footnotes in published LogSeq [[BMC/Backlog]]
 	  id:: 63af89eb-3371-42cb-a4d9-677b0293913e
+		- #CANCELLED [[Dec 30th, 2022]]
+			- Tried to do some installs but it doesn’t look like it’s going to work
 - TODO Flow for new blog posts
 	- Use #published to give them a date
 	- ~~Tag them with #blog~~

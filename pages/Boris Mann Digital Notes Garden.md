@@ -21,4 +21,4 @@ alias:: Home
   
   > ((639e2e36-653f-433c-8db8-cbc105fe8f2e))
   
-  — [When Tailwinds Vanish]([[When Tailwinds Vanish: The Internet in the 2020s]])
+  — [When Tailwinds Vanish]([[When Tailwinds Vanish: The Internet in the 2020s]]) #Startup #[[future of venture]]

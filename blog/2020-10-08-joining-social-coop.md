@@ -1,31 +1,28 @@
----
-title: Joining Social.Coop
-date: '2020-10-09T09:39:34-07:00'
-categories:
-  - Commons
-tags:
-  - Mastodon
-  - co-op
----
+type:: blog
+published:: [[October 9th, 2020]]
+tags:: #co-op, #mastodon, #Social.Coop
 
-[![]({% link assets/2020/10/socialcoop.png %})](https://social.coop)
-
-I've just finished getting onboarded into [[Social.Coop]] https://social.coop, a cooperative that maintains social media technology together, supported by member funding.
-
-In particular, the main thing the co-op runs is a [[Mastodon]] instance. You can think of Mastodon as an open source Twitter, except spread across multiple individual servers. I've been meaning to setup an active Mastodon account again[[I ran my own single user <a href='{% link _posts/blog/2017-04-15-notes-on-running-mastodon-heroku.md %}'>Mastodon on Heroku</a> for a while. Ultimately I want to see these sorts of social software systems scale down to the individual, but they way they are architected has to fit that model. Mastodon is too complex, and thus costly, for an individual to run.::lsn]], and I want to more directly explore collective governance and funding models, so Social Co-op seems like a great fit.
-
-Here's what the [Social.Coop wiki has to say](https://wiki.social.coop/home.html):
-
-> **What?:** Social.coop is is an experiment in user-controlled social media. It is a community hub for people interested in co-ops and development of free/libre social media - these define the common core field of discussion, though they are far from the only things discussed.
->
->We primarily run a [[Mastodon]] social media server: one node in the [[Fediverse]], a federated network of social media applications which communicate using the [[Activity Pub]] and [[OStatus]] protocols.
->
-> **Why?:** What distinguishes us from most other social media there is that [[we are both funded and governed by our members: we are a co-operative::highlight]]. The organisation and running of the site is accountable to its members, and not only will we not be monetising our users by selling their data to third parties, but they decide what we do.
-
-They use [Open Collective to collect monthly or annual funds](https://opencollective.com/socialcoop), where the member can choose what amount to fund. The goal is to be as accessible as possible, so the minimum member tier is just £1 / month.
-
-[[Loomio]] is what is used for discussion, governance, and operations, with Community, Tech, and Finance Working Groups. You need to be a member to post, but the [discussions are public in the main Loomio group](https://www.loomio.org/socialcoop/).
-
+- ![Social Coop](..assets/2020/10/socialcoop.png )
+  
+  I've just finished getting onboarded into [[Social.Coop]], a cooperative that maintains social media technology together, supported by member funding.
+  
+  In particular, the main thing the co-op runs is a [[Mastodon]] instance. You can think of Mastodon as an open source Twitter, except spread across multiple individual servers. I've been meaning to setup an active Mastodon account again.
+  
+  I ran my own single user [Mastodon on Heroku]([[Notes on running your own Mastodon instance on Heroku]]) for a while.
+  
+  Ultimately I want to see these sorts of social software systems scale down to the individual, but they way they are architected has to fit that model. Mastodon is too complex, and thus costly, for an individual to run, and I want to more directly explore collective governance and funding models, so Social Co-op seems like a great fit.
+  
+  Here's what the [Social.Coop wiki has to say](https://wiki.social.coop/home.html):
+  
+  > **What?:** Social.coop is is an experiment in user-controlled social media. It is a community hub for people interested in co-ops and development of free/libre social media - these define the common core field of discussion, though they are far from the only things discussed.
+  >
+  >We primarily run a [[Mastodon]] social media server: one node in the [[Fediverse]], a federated network of social media applications which communicate using the [[Activity Pub]] and [[OStatus]] protocols.
+  >
+  > **Why?:** What distinguishes us from most other social media there is that ==we are both funded and governed by our members: we are a co-operative==. The organisation and running of the site is accountable to its members, and not only will we not be monetising our users by selling their data to third parties, but they decide what we do.
+  
+  They use [Open Collective to collect monthly or annual funds](https://opencollective.com/socialcoop), where the member can choose what amount to fund. The goal is to be as accessible as possible, so the minimum member tier is just £1 / month.
+  
+  [[Loomio]] is what is used for discussion, governance, and operations, with Community, Tech, and Finance Working Groups. You need to be a member to post, but the [discussions are public in the main Loomio group](https://www.loomio.org/socialcoop/).
 ## How to sign up
 
 To sign up for Social.Coop, start by [filling out the application form](https://wiki.social.coop/registration-form.html). The main thing it asks for:
