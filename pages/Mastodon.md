@@ -1,7 +1,8 @@
-tags:: #opensource, #microblog, #Rails, #Fediverse, #ActivityPub, #ActivityPub/Server 
+tags:: #opensource, #microblog, #Rails, #Fediverse, #ActivityPub, #ActivityPub/Server
 link:: https://joinmastodon.org
 github:: https://github.com/mastodon/mastodon
 funding:: https://www.patreon.com/mastodon
+title:: Mastodon
 
 - Mastodon is an open source federated microblogging platform, implementing the #ActivityPub protocol
 	- It’s an [[ActivityPub/Server]]

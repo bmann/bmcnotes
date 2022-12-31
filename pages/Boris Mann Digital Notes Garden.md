@@ -7,7 +7,7 @@ alias:: Home
   
   It also houses my long term [Archive]([[BMC/Archive]]),
 - ## Recent
-	- Explore #mastodon related content
+	- Explore #Mastodon related content
 	- Thinking about your [[Twitter/Archive]]?
 - ## Seeds
   

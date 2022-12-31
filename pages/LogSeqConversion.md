@@ -17,6 +17,7 @@ alias:: LogSeq Conversion
 - TODO Convert more recent blog posts
 	- Needs a plan for footnotes, currently uses [[Littlefoot]] which I quite like
 	- LogSeq supports Markdown footnotes already, so let’s just make a backlog item
+	- It is easiest to do quickly directly in [[Working Copy]] — keeping them as non outliner Markdown is fine
 	- DONE Support [[Littlefoot]] for footnotes in published LogSeq [[BMC/Backlog]]
 	  id:: 63af89eb-3371-42cb-a4d9-677b0293913e
 		- #CANCELLED [[Dec 30th, 2022]]

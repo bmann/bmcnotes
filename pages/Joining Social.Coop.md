@@ -1,6 +1,6 @@
 type:: blog
 published:: [[October 8th, 2020]]
-tags:: #co-op, #mastodon, #Social.Coop
+tags:: #co-op, #Mastodon, #Social.Coop
 
 - ![Social Coop](..assets/2020/10/socialcoop.png )
   
