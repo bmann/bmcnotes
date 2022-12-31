@@ -1,7 +1,8 @@
-filters:: {"bmc/backlog" false, "Dec 29th, 2022" false}
+filters:: {"bmc/backlog" false, "Dec 29th, 2022" false, "contents" false}
 alias:: Home
 
 - This is my space for Notes[^1], saving and highlighting Articles and other Links[^2].
+- You can browse my [:a {:href "#/all-journals"} "Daily Journals"]
 - ## Recent
 	- Explore #mastodon related content
 	- Thinking about your [[Twitter/Archive]]?

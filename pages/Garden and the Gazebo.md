@@ -23,7 +23,6 @@ Wikis have fallen out of fashion these days, although their concepts in tools li
 [^borges]: Yes, that refers to the [short story by Borges (Wikipedia)](https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths).
 
 [[Processing]] is where I'm stashing articles I intend to quote and keep and other snippets of information. I've got [[Working Copy]] on my phone, so I can copy / paste information and check it in. Right now, I have to get back to my computer to publish it, which isn't ideal.
-
 ## Gazebo
 
 Maybe locked garden shed would be another analogy, but Gazebo is what popped into my mind and what I'm running with.
@@ -31,7 +30,6 @@ Maybe locked garden shed would be another analogy, but Gazebo is what popped int
 I am mostly in the Gazebo, using [[LogSeq]], day-to-day. 
 
 I can't seamlessly move from private to public.
-
 ## Blog posts vs Notes
 
 What's the difference between a blog post and a note? When I say it like that, it seems simple. But, this note is a great example. I'm writing it for myself -- to figure out what I think -- and I'm writing it in public, so I can share it and point people at it when they ask about my setup.
@@ -39,4 +37,3 @@ What's the difference between a blog post and a note? When I say it like that, i
 But a blog post would never make it public in this shape. I'm playing with using the [[WIP]] tag -- for myself, so I can know which notes need some more work. Which is kind of like the [[Processing]] page, too. Lots of loose ends, but in a good way.
 
 [[WIP]]
-

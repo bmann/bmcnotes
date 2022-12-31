@@ -1,1 +1,6 @@
--
+- [[Home]]
+- [:a {:href "#/all-journals"} "Journals"]
+- Site Details
+	- [[About]]
+	- [[Contact]]
+	- [[Colophon]]

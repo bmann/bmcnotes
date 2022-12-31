@@ -12,7 +12,6 @@ Below, the contents of the original "Your first seed" note, which I deleted alon
 ### Welcome!
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
-
 ### Link syntax
 
 To link to another note, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a link to a note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
@@ -24,21 +23,17 @@ Since the Web is all about HTML, you can always use plain HTML if you want, like
 Of course, you can also link to external websites, like this: [this is a link to Wikipedia](https://wikipedia.org/). Again, you can use plain HTML if you prefer.
 
 Additionally, you can use Roam/wiki-style link syntax by wrapping a note's title in double brackets, like this: [[Colophon]]. If the Roam-style link does not point to a valid note's title, the double brackets will still be shown, like this: [[There is no note with this title]].
-
 ### Automatic bi-directional links
 
 Notice in the "Notes mentioning this note" section that there is another note linking to this note. This is a bi-directional link, and those are automatically created when you create links to other notes.
-
 ### Link previews
 
 If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[Colophon]]
-
 ### Images
 
 Finally, you can display images using Markdown syntax, like this:
 
 ![]({{page.image}})
-
 ### Next steps
 
 **If this template is useful to you in any way, consider [donating](https://github.com/sponsors/maximevaillancourt) to support my work.**

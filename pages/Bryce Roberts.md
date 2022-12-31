@@ -1,6 +1,6 @@
 tags:: #Person, #investor, #[[venture capital]]
 
 - twitter:: https://twitter.com/bryce
-- alias:: Bryce Roberts
+- alias:: @bryce
 - Founder of [[IndieVC]], [[OATV]]
 -
