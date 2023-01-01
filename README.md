@@ -1,7 +1,10 @@
 # Boris Mann's Digital Garden
 
-Live at <https://bmannconsulting.com>. Read the [Colophon](https://bmannconsulting.com/colophon/) for details.
+Live at <https://bmannconsulting.com>. 
 
-Running Jekyll, backlinks and second brain / digital garden features provided by Simply Jekyll theme.
+Running [LogSeq](https://logseq.com)
 
-Social and slightly more frequent posts are at https://blog.bmannconsulting.com.
+* The [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish) Github Action builds the site
+* Published to IPFS via [fission-codes/publish-action](https://github.com/fission-codes/publish-action)
+
+Read the [Colophon](https://bmannconsulting.com/#/page/colophon) for full details.
