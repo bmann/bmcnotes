@@ -1,6 +1,6 @@
 link:: https://moa.party
 git:: https://gitlab.com/fedstoa/moa
-tags:: #Python, #opensource, #Twitter, #Mastodon, #crossposting
+tags:: #Python, #opensource, #Twitter, #Mastodon, #crossposting, #organization 
 alias:: moaparty
 
 - Links your [[Mastodon]] account to [[Twitter]] to enable cross-posting in both directions.
