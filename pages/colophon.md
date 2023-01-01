@@ -11,7 +11,7 @@
 - # Current
 	- [[Simply Jekyll]] theme for Jekyll. If you want to run it yourself, I've got some public work around this with the [[Simply Jekyll Template]].
 	- Using [[VSCode]] on my desktop to edit.
-	- Hosting on [[Fission]]. [[Cloudflare]] is powering the DNS and using [[Cloudflare IPFS Gateway]].
+	- Hosting on [[Fission]]. [[Cloudflare]] is powering the DNS and using [[Cloudflare/IPFS Gateway]].
 	- Source code is public on Github at [bmann/bmcgarden](https://github.com/bmann/bmcgarden). [[Connecting to the Agora]] as of [[Jan 24th, 2021]].
 	- Changed fission app from `ancient-aquamarine-metalic-princess.fission.app` to `bmcgarden.fission.app` and updating Cloudflare.
 	- Switched over Notes and Links pages to use `modified`. Added Git Links to the Links page. Disabled the jekyll last_modified plugin, which never seemed to work in any case.
@@ -24,7 +24,7 @@
 	- ## bmannconsulting garden & gazebo (Sept 2020)
 	- Well, WikiJS didn't last long. The public site is back to running [[Jekyll]], starting from the [[Digital Garden Jekyll Template]] and its custom [[Backlinks]] plugin.
 	- The public site is the "garden", which is in a `public` folder inside the "gazebo", where I can keep private notes. Stored in a private [[Github]] repo.
-	- Since I have my DNS on [[Cloudflare]], ended up using the [[Cloudflare IPFS Gateway]] to link my site up to where it is hosted on the [[Fission]] platform. Which means the whole thing is on [[IPFS]]. You can [browse the archive 2020 folder](https://bmannconsulting.com/archive/2020/) to see the bare IPFS directories underneath.
+	- Since I have my DNS on [[Cloudflare]], ended up using the [[Cloudflare/IPFS Gateway]] to link my site up to where it is hosted on the [[Fission]] platform. Which means the whole thing is on [[IPFS]]. You can [browse the archive 2020 folder](https://bmannconsulting.com/archive/2020/) to see the bare IPFS directories underneath.
 	- I build the site locally and then publish to Fission.
 	- The [[Garden and the Gazebo]] has a write up about the setup and the thinking behind what, why, and how.
 	- ## bmann wiki, bmannconsulting.com WikiJS (May 2020)
