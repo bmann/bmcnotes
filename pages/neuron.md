@@ -8,7 +8,7 @@ A future-proof open-source app for managing your plain-text notes in Zettelkaste
 
 [[AGPL License]], written in [[Haskell]], installed via [[Nix]]
 
-You can use the [Neuron Template](https://github.com/srid/neuron-template) to publish to [[Github Pages]] using [[Github Actions]].
+You can use the [Neuron Template](https://github.com/srid/neuron-template) to publish to [[Github/Pages]] using [[Github/Actions]].
 
 Github: https://github.com/srid/neuron
 

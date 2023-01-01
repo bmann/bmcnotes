@@ -19,7 +19,6 @@ I also associate efficiency with my version of startup. This efficiency can come
 # Types of Startups
 
 I'm going to write down some thoughts and definitions on kinds of businesses below.
-
 ## Venture Startup
 
 A venture startup is a business that can grow (or "scale") to a very large revenue over time. The classic number is, can your business get to $100M in annual revenue in 5 years?
@@ -27,7 +26,6 @@ A venture startup is a business that can grow (or "scale") to a very large reven
 The other line you'll hear a lot at the beginning of a venture startup is "do things that don't scale".
 
 You don't know what the most valuable parts of the business will be, so you are optimizing for learning and insights from your customers rather than efficiency.
-
 ## Bootstrapped
 
 The term "bootstrapping" refers to not taking outside investment to get started. This usually means the person starting the company has personal savings to cover cost of living for themselves, and the ability to invest in what is needed to start a business.
@@ -39,7 +37,6 @@ There are a number of emerging forms of capital investment now available, such a
 This category has grown a lot larger lately, because many forms of Software-as-a-Service (SaaS) businesses can be run by a much smaller number of people -- eg a single founder, or a small 2-3 person team -- and thus don't need outside investment to grow to be quite profitable.
 
 SaaS is called out particularly, as a "scalable" business model where you can sell recurring software subscriptions on a monthly or yearly basis, rather than constantly finding new customers.
-
 ### Simple SaaS Example
 
 Let's say you have a team of 3 people, and you initially want to make $80K each in annual salary, which would be $240K. We'll add a healthy buffer of operations, expenses, and overhead of $60K annually, so that's $300K in Annual Recurring Revenue (ARR)
@@ -52,7 +49,6 @@ That would mean you're aiming for $25K Monthly Recurring Revenue (MRR):
 Of course, you could start by earning half as much, cut your expenses in half, and with $100 plans you'd only need 125 paying customers, which seems achievable.
 
 As well, growing this business to add more paying customers doesn't incur dramatically more costs, so we say it's "scalable".
-
 ## Small Business
 
 The small business we usually think of is usually a physical store with only one location, in a local area.
@@ -70,7 +66,6 @@ A software development shop might sell hosting, maintenance, or support hours on
 An accountant might sell a monthly or annual package that includes everything that you need, again using efficiency and optimization to deliver accounting and book-keeping services at scale.
 
 Outside of more digital or knowledge based areas, subscription boxes or memberships can work for all kinds of businesses.
-
 # Capital Investment
 
 * Angel vs VC
@@ -78,8 +73,6 @@ Outside of more digital or knowledge based areas, subscription boxes or membersh
 * IndieVC-style investment
 * Revenue Financing
 * Future of Venture
-
-
 # Getting Started
 
 All businesses, companies, and ideas get started somewhere, and over time have various setup and improvement needs.
@@ -90,7 +83,6 @@ These are a set of recommendations of tools, generally aimed at the "just gettin
 
 **Articles:**
 * [[Canadian Incorporation as a non-resident]]
-
 ## Web Presence
 
 TODO: write up "spend $0 or $5K on a website"
@@ -100,19 +92,16 @@ TODO: write up "spend $0 or $5K on a website"
 * [[Fastmail]]
 * [[Squarespace]]
 * [[Webflow]]
-
 ## Ecommerce
 
 * [[Stripe]]
 * [[Shopify]]
 * [[Gumroad]]
-
 ## General Workflow / Data Tools
 
 * [[Zapier]]
 * [[Airtable]]
 * [[TypeForm]]
-
 ## Email, Support, & Shared Communications
 
 * [[Missive]]
@@ -121,7 +110,6 @@ TODO: write up "spend $0 or $5K on a website"
 * [[Help Scout]]
 
 LINK: Email is a team sport
-
 ## Company Information
 
 * TODO: Using Discourse Forum & Discord Chat for Company and Community
@@ -129,14 +117,12 @@ LINK: Email is a team sport
 * [[Slack]]
 * [[Dropbox Paper]]
 * [[GDrive]]
-
 ## Project Management
 
 * [[Trello]]
-* [[Github Issues]]
+* [[Github/Issues]]
 * [[Gitlab]]
 * [[Basecamp]]
-
 ## Company Formation
 
 TODO: write down a couple of different options, esp. venture startup vs. small business
@@ -148,7 +134,6 @@ TODO: write down a couple of different options, esp. venture startup vs. small b
 * [[Small Business Lawyers]]
 * [[Captable.io]]
 * [[Founder Vesting]] aka "Reverse Vesting"
-
 ## Banking, Finance, and Accounting
 
 * [[Xero]]
@@ -158,7 +143,6 @@ TODO: write down a couple of different options, esp. venture startup vs. small b
 * User Model / Business Model Worksheet template
 
 * Sprout Accounting
-
 ### International Payments and Transfers
 
 [TransferWise](https://transferwise.com/invite/u/borism73) will give you the best foreign exchange rates and also will give you USD, GBP, EUR bank accounts (amongst others) that you can accept money into from others.
@@ -168,7 +152,6 @@ TODO: write down a couple of different options, esp. venture startup vs. small b
 Neither of those two can support sending funds to Brazil. [Payoneer](https://www.payoneer.com/) can make personal and business accounts that can send and receive Brazilian Real (BRL).
 
 Having a Paypal business account is generally useful, as you can then link it to your bank account and pay some recurring or one-time bills through there. Especially useful if you have a low limit on your business credit card, as is often the case with startups in Canada (e.g. I currently have $5000CAD limit shared across two founder cards).
-
 ## Metrics
 
 * [[Intercom]]

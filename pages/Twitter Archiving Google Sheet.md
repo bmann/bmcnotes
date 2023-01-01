@@ -1,5 +1,5 @@
 link:: https://tags.hawksey.info
-tags:: #tool, #Twitter, #[[Google Sheets]], #[[Github Pages]]
+tags:: #tool, #Twitter, #[[Google Sheets]], #[[Github/Pages]]
 author:: [[Michael Hawksey]]
 
 - Michael Hawksey's "Twitter Archiving Google Spreadsheet" aka TAGS.
