@@ -1,7 +1,9 @@
 - Historically, a **Colophon** was "a statement at the end of a book, typically with a printer's emblem, giving information about its authorship and printing" (via Google Dictionary).
-  title:: Colophon
-- So, I keep notes on what software and other tools I use, in part as notes to myself.
-- Meta details about “this site” is under [[BMC]]
+  
+  So, I keep notes on what software and other tools I use, in part as notes to myself.
+  
+  Meta details about “this site” is under [[BMC]]
+  ---
 - # Current
   id:: 63af9639-98d7-4381-ad9d-866381e7eca4
 	- Converted all [[Digital Garden]] notes, Journals, and the Blog and Archive to [[LogSeq]]
