@@ -1,3 +1,3 @@
-see-also:: #[[future of computing]], #[[creative computing]]
+see-also:: #[[history of computing]], #[[future of computing]], #[[creative computing]]
 
 -

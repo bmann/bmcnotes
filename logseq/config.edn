@@ -208,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["The Extended Internet Universe" "The Dark Forest Theory of the Internet" "Wardley Maps" "Pioneers, Settlers, and Town Planners" "When Tailwinds Vanish: The Internet in the 2020s" "Gumroad No Full Time Employees" "Moving Castles: Modular and Portable Multiplayer Miniverses"]
+ :favorites ["Positive Sum Worlds: Remaking Public Goods" "The Extended Internet Universe" "The Dark Forest Theory of the Internet" "Wardley Maps" "Pioneers, Settlers, and Town Planners" "When Tailwinds Vanish: The Internet in the 2020s" "Gumroad No Full Time Employees" "Moving Castles: Modular and Portable Multiplayer Miniverses"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
