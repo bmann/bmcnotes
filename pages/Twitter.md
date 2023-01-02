@@ -2,5 +2,5 @@ filters:: {"person" false, "twitter/archive" false, "organization" false}
 link:: https://twitter.com
 tags:: #[[Social Media]]
 
-- Also a [[Local LogSeq Property]] of #Person
+- Also a [[BMC/Local LogSeq Property]] of #Person
 -
