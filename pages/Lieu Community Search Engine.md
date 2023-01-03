@@ -1,0 +1,11 @@
+tags:: #search, #webring
+link:: https://lieu.cblgh.org/
+
+— Run your own community search engine.
+
+- From the [about page](https://lieu.cblgh.org/about):
+- > Lieu is a neighbourhood search engine, a way for personal webrings to increase serendipitous connexions.
+
+- The code is open source under the [[AGPL License]] and written in [[GoLang]], available on GitHub [cblgh/lieu](https://github.com/cblgh/lieu). 
+
+- via someone on Mastodon, since I follow a lot of people from the Merveilles server. 
