@@ -4,7 +4,7 @@ alias:: [[Twitter Archive]]
 
 - My archived tweets are powered by #Tweetback
 - You can browse and search them at https://twitter.bmannconsulting.com
-- They are hosted on #IPFS via #fission
+- They are hosted on #IPFS via #Fission
 - Complete as of [[Jan 1st, 2023]]
 	- Running `npm run fetch-new-data` let’s me fetch new data in the future, [as per the Tweetback README](https://github.com/tweetback/tweetback#fetch-additional-tweets-from-the-api-optional)
 - Previously

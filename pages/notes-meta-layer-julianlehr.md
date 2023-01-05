@@ -27,5 +27,4 @@ I’ve created an [[Indoctrination Reading List]] at multiple companies, as well
 
 I think the intent here is to be much more contextual per app or interface. 
 
-Asking people about their note taking practices and tools is probably a good interview question. 
-
+Asking people about their note taking practices and tools is probably a good interview question.
