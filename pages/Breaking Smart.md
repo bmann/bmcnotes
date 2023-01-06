@@ -1,5 +1,5 @@
 link:: https://breakingsmart.substack.com
-tags:: #[[email newsletter]], #substack
+tags:: #[[email newsletter]], #Substack
 author:: [[Venkatesh Rao]]
 
 - Redirects to [[Ribbonfarm Studio]]
