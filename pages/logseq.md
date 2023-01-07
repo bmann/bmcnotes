@@ -1,8 +1,9 @@
-tags:: #[[tools for thought]], #ClojureScript, #opensource 
+tags:: #[[tools for thought]], #ClojureScript, #opensource
 git:: https://github.com/logseq/logseq
 link:: https://logseq.com
 twitter:: https://logseq.com
 recommended:: true
+title:: LogSeq
 
 - From the Github README:
   

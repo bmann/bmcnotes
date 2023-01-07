@@ -1,4 +1,4 @@
 - Added a CSS snippet to hide `page-properties`
 - This means that [[LogSeq/Custom CSS]] is apparently ignored
-- TODO Add [[LogSeq/Bonofix Theme]] to `export.css`
+- DONE Add [[LogSeq/Bonofix Theme]] to `export.css`
 -

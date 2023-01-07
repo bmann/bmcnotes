@@ -168,6 +168,15 @@
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
     :collapsed? false}
+
+    {:title            "🧧 On This Day"                                                                        
+     :query            [:find (pull ?b [*])                                                              
+                       :in $ ?span                                                                      
+                       :where                                                                           
+                       (between ?b ?span ?span)                                                         
+                       ]                                                                                
+     :inputs           [:365d-before ]                                                                   
+     :collapsed?       false} 
     
 ]}
 

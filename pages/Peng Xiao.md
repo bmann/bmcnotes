@@ -1,5 +1,5 @@
 alias:: pengx17
-tags:: #Person, #developer, #logseq
+tags:: #Person, #developer, #LogSeq
 github:: https://github.com/pengx17
 link:: https://pengx17.vercel.app/
 
