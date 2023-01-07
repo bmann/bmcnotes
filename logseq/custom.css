@@ -2,3 +2,6 @@
 
 .content .pre-block { opacity: 0.2; }
 .content .pre-block:hover { opacity: 1; }
+.block-editor textarea {
+    opacity: 1;
+}
