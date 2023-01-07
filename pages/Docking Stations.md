@@ -14,7 +14,7 @@ tags:: #research, #hardware
 		- Thunderbolt Dual DisplayPort Adapter https://www.owc.com/solutions/thunderbolt-dual-displayport-adapter
 	-
 - ThunderBoltLaptop - [Best Thunderbolt 4 Docking Stations](https://thunderboltlaptop.com/best-thunderbolt-4-docking-stations/)
-	- CalDigit
+	- CalDigit [Thunderbolt Station 4](https://www.caldigit.com/thunderbolt-station-4/)
 		- 18 Ports of Extreme Connectivity - Featuring an impressive 18 ports, the TS4 has enough connectivity for even the most demanding of workflows. This includes a built-in DisplayPort 1.4 connector, a total of 8x USB ports with full 10Gb/s performance, SD & microSD 4.0 UHS-II Card Readers, 3x Thunderbolt 4 (40Gb/s) ports, 3x Audio ports, 2.5GbE, and a security slot.
 		-
 -

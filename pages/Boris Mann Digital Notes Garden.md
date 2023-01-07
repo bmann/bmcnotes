@@ -4,11 +4,11 @@ alias:: Home
 - This is my space for Notes, saving and highlighting Articles. It's a [[Second Brain]] or personal wiki.
   
   You can browse my [:a {:href "#/all-journals"} "Daily Journals"]
-  
-  It also houses my long term [Archive]([[BMC/Archive]]),
 - ## Recent
 	- Explore #Mastodon related content
 	- Thinking about your [[Twitter/Archive]]?
+	- The #[[dark forest]] and #cozyweb concepts for the web are important
+	- I’m learning #LogSeq
 - ## Seeds
   
   > ((63901096-6a18-429e-8f4d-00eeb63b12a7))

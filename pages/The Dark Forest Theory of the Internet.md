@@ -17,4 +17,4 @@ tags:: #article, #[[dark forest]]
 		- If the dark forest isn’t dangerous already, these departures might ensure it will be.
 	- Imagine a dark forest at night. It’s deathly quiet. Nothing moves. Nothing stirs. This could lead one to assume that the forest is devoid of life. But of course, it’s not.
 		- The dark forest is full of life. It’s quiet because night is when the predators come out. To survive, the animals stay silent.
--
+- The second book in [[The Three-Body Problem]] series is called [[The Dark Forest]].
