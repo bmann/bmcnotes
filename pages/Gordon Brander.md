@@ -1,6 +1,8 @@
 tags:: #Person, #developer, #ipfs, #UCAN, #Subconscious, #Noosphere, #founder
 twitter:: https://twitter.com/gordonbrander
+link:: https://gordonbrander.com
 
+-
 - Quotes
 	- [The web began as a tool for thought](https://subconscious.substack.com/p/coming-soon) [[Mar 7th, 2021]]
 		- I’m building something new. It’s kind of…

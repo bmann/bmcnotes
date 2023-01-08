@@ -1,5 +1,5 @@
 link:: https://otherinter.net/research/positive-sum-worlds/
-tags:: #article, #[[public goods]], #crypto 
+tags:: #article, #[[Public Goods]], #crypto 
 status:: processing
 published:: [[Jul 2nd, 2021]]
 author:: [[Sam Hart]] , [[Toby Shorin]] , [[Laura Lotti]]
