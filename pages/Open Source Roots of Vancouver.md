@@ -1,0 +1,6 @@
+- [[ActiveState]] founded by Duck Hardt in #vancouver
+- Porting open source languages to make them work on Windows — eg IronPython, Perl, PHP, etc
+- Hired a bunch of open source people and moved them to Vancouver
+- Vancouver PHP Users Group
+	- at one time the largest PHP users group in the world
+- Boris, Roland, and the Vancouver Drupal community

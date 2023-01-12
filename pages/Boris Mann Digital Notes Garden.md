@@ -5,10 +5,11 @@ alias:: Home
   
   You can browse my [:a {:href "#/all-journals"} "Daily Journals"]
 - ## Recent
-	- Explore #Mastodon related content
+	- Explore #Mastodon and #ActivityPub related content
 	- Thinking about your [[Twitter/Archive]]?
-	- The #[[dark forest]] and #cozyweb concepts for the web are important
-	- I’m learning #LogSeq
+	- The #[[dark forest]] and #cozyweb care important concepts for thinking about the web today
+	- I’m learning #LogSeq, which powers this site
+	- I think a lot about #[[commons funding]]
 - ## Seeds
   
   > ((63901096-6a18-429e-8f4d-00eeb63b12a7))
