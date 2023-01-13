@@ -17,4 +17,7 @@
 			- Here's the public entry for the #PLN https://talk.fission.codes/t/protocol-labs-network-pln/2311
 		- Original [[Vancouver Geek Dinner Wrap-up]] way back in 2004 and [[Committed to building Vancouver startup community]] from 2014
 		- [[Koii Network]] has some similarities to Holochain
+		- [[Networked Orgs and tooling]]
+			- Which has several links into [[Simon Wardley]] posts
+			- [[Wardley Maps]] are also an important  concept
 		-
