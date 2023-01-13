@@ -15,7 +15,6 @@
 		- [[Protocol Labs Network]] and [[Juan Benet]]’s PLv8 video around this
 			- Also mentioned the #[[Fission Wiki]]
 			- Here's the public entry for the #PLN https://talk.fission.codes/t/protocol-labs-network-pln/2311
-			-
 		- Original [[Vancouver Geek Dinner Wrap-up]] way back in 2004 and [[Committed to building Vancouver startup community]] from 2014
 		- [[Koii Network]] has some similarities to Holochain
 		-
