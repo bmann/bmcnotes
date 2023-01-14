@@ -1,6 +1,7 @@
-tags:: #photo, #tool, #Chromebook, #PWA 
+tags:: #photo, #tool, #Chromebook, #PWA
 link:: https://www.photopea.com
 recommended:: true
+title:: Photopea
 
 - Photopea, online photo editor
 - Works with Photoshop, Sketch, Illustrator, raw files, and most image formats. Not fully open source, free with ads or $40 / year.
