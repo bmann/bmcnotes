@@ -1,0 +1,8 @@
+- Venture Mac Mini Intel Setup Notes [[Jan 14th, 2023]]
+	- For some reason, the [[Asus VG289Q Monitor]]
+	- Internet Accounts
+		- My two Google Accounts
+	- Chrome
+	- 1Password
+	- [[Karabiner Elements]] for my keyboard
+	-
