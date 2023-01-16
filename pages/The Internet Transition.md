@@ -1,5 +1,5 @@
 author:: [[Robin Berjon]]
-tags:: #[[Cambrian Governance]]
+tags:: #[[Cambrian Governance]], #article 
 link:: https://berjon.com/internet-transition/
 published:: [[Jan 13th, 2023]]
 
