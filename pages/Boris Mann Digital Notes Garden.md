@@ -12,6 +12,10 @@ alias:: Home
 	- I think a lot about #[[commons funding]]
 - ## Seeds
   
+  > ((63c48e05-41f1-40ce-af19-fc7d6da51e4c))
+  
+  -- [[The Internet Transition]] #[[Robin Berjon]] #governance 
+  
   > ((63901096-6a18-429e-8f4d-00eeb63b12a7))
   
   — [[A Year of New Avenues]] #[[Robin Sloan]] 

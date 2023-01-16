@@ -108,7 +108,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {}
+ :shortcuts {:ui/toggle-help "?", :ui/toggle-wide-mode "t w"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
@@ -219,7 +219,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["Positive Sum Worlds: Remaking Public Goods" "The Extended Internet Universe" "The Dark Forest Theory of the Internet" "Wardley Maps" "Pioneers, Settlers, and Town Planners" "When Tailwinds Vanish: The Internet in the 2020s" "Gumroad No Full Time Employees" "Moving Castles: Modular and Portable Multiplayer Miniverses"]
+ :favorites ["The Internet Transition" "Positive Sum Worlds: Remaking Public Goods" "The Extended Internet Universe" "The Dark Forest Theory of the Internet" "Wardley Maps" "Pioneers, Settlers, and Town Planners" "When Tailwinds Vanish: The Internet in the 2020s" "Gumroad No Full Time Employees" "Moving Castles: Modular and Portable Multiplayer Miniverses"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
