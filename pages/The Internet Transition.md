@@ -3,6 +3,9 @@ tags:: #[[Cambrian Governance]], #article
 link:: https://berjon.com/internet-transition/
 published:: [[Jan 13th, 2023]]
 
+- Other things linked to
+	- [[Metagov]]
+	- [[The Web3 Decentralization Debate Is Focused on the Wrong Question]]
 - Quotes
 	- To sum things up, we’re trying to run a planetary society that needs to solarpunk the fuck out of itself in a hurry on the collective intelligence of an 18th century principality that’s heard of the Enlightenment from some guy at the pub.
 	  id:: 63c48e05-41f1-40ce-af19-fc7d6da51e4c
