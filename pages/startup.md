@@ -1,42 +1,30 @@
----
-title: Startup
----
-_Startup and small business operations and efficiency_
+alias:: startups
 
-**"Startup"** is this weird phrase that means lots of different things. For me, one of the things that it means is really internalizing a couple of different concepts.
-
-One is the [[Lean Startup]], which has lots of baggage associated with it today, but at its core there is the **Build - Measure - Learn** loop.
-
-You start with a hypothesis (another key concept), like "adding an ecommerce channel will lead to more sales", and then you **build** the minimal version of that that you can, **measure** the results, and **learn** from that.
-
-Did you make a Return on Investment (ROI) of your time / money / interest? Does it look promising, but you need to build a more complete store or have a person dedicated to running it? Did you learn that you don't enjoy the process of figuring out an ecommerce app and online marketing, but want to have someone else do it as part of your business?
-
-I also associate efficiency with my version of startup. This efficiency can come from:
-1. "operationalizing" or "productizing" parts of your business so that you understand what runs your business, what the steps are, and how you might apply the next two concepts
-2. using digital workflows and automation
-3. outsourcing parts of your business / workflows so people can focus on what they like to do, are good at, or simply make more money by working on their core
-
-# Types of Startups
-
-I'm going to write down some thoughts and definitions on kinds of businesses below.
-## Venture Startup
-
-A venture startup is a business that can grow (or "scale") to a very large revenue over time. The classic number is, can your business get to $100M in annual revenue in 5 years?
-
-The other line you'll hear a lot at the beginning of a venture startup is "do things that don't scale".
-
-You don't know what the most valuable parts of the business will be, so you are optimizing for learning and insights from your customers rather than efficiency.
-## Bootstrapped
-
-The term "bootstrapping" refers to not taking outside investment to get started. This usually means the person starting the company has personal savings to cover cost of living for themselves, and the ability to invest in what is needed to start a business.
-
-There is a certain amount of antagonism and disdain from "bootstrappers" for those companies that take investment. But, at a certain point, if you know that $1 into the business can make $1.25, then taking investment can be one way to really grow the business.
-
-There are a number of emerging forms of capital investment now available, such as IndieVC style investments or revenue financing, that can really work for "bootstrap" businesses.
-
-This category has grown a lot larger lately, because many forms of Software-as-a-Service (SaaS) businesses can be run by a much smaller number of people -- eg a single founder, or a small 2-3 person team -- and thus don't need outside investment to grow to be quite profitable.
-
-SaaS is called out particularly, as a "scalable" business model where you can sell recurring software subscriptions on a monthly or yearly basis, rather than constantly finding new customers.
+- _Startup and small business operations and efficiency_
+- **"Startup"** is this weird phrase that means lots of different things. For me, one of the things that it means is really internalizing a couple of different concepts.
+- One is the [[Lean Startup]], which has lots of baggage associated with it today, but at its core there is the **Build - Measure - Learn** loop.
+- You start with a hypothesis (another key concept), like "adding an ecommerce channel will lead to more sales", and then you **build** the minimal version of that that you can, **measure** the results, and **learn** from that.
+- Did you make a Return on Investment (ROI) of your time / money / interest? Does it look promising, but you need to build a more complete store or have a person dedicated to running it? Did you learn that you don't enjoy the process of figuring out an ecommerce app and online marketing, but want to have someone else do it as part of your business?
+- I also associate efficiency with my version of startup. This efficiency can come from:
+	- "operationalizing" or "productizing" parts of your business so that you understand what runs your business, what the steps are, and how you might apply the next two concepts
+	- using digital workflows and automation
+	- outsourcing parts of your business / workflows so people can focus on what they like to do, are good at, or simply make more money by working on their core
+- # Types of Startups
+- I'm going to write down some thoughts and definitions on kinds of businesses below.
+- ## Venture Startup
+- A venture startup is a business that can grow (or "scale") to a very large revenue over time. The classic number is, can your business get to $100M in annual revenue in 5 years?
+- The other line you'll hear a lot at the beginning of a venture startup is "do things that don't scale".
+- You don't know what the most valuable parts of the business will be, so you are optimizing for learning and insights from your customers rather than efficiency.
+- ## Bootstrapped
+- The term "bootstrapping" refers to not taking outside investment to get started. This usually means the person starting the company has personal savings to cover cost of living for themselves, and the ability to invest in what is needed to start a business.
+  
+  There is a certain amount of antagonism and disdain from "bootstrappers" for those companies that take investment. But, at a certain point, if you know that $1 into the business can make $1.25, then taking investment can be one way to really grow the business.
+  
+  There are a number of emerging forms of capital investment now available, such as IndieVC style investments or revenue financing, that can really work for "bootstrap" businesses.
+  
+  This category has grown a lot larger lately, because many forms of Software-as-a-Service (SaaS) businesses can be run by a much smaller number of people -- eg a single founder, or a small 2-3 person team -- and thus don't need outside investment to grow to be quite profitable.
+  
+  SaaS is called out particularly, as a "scalable" business model where you can sell recurring software subscriptions on a monthly or yearly basis, rather than constantly finding new customers.
 ### Simple SaaS Example
 
 Let's say you have a team of 3 people, and you initially want to make $80K each in annual salary, which would be $240K. We'll add a healthy buffer of operations, expenses, and overhead of $60K annually, so that's $300K in Annual Recurring Revenue (ARR)
