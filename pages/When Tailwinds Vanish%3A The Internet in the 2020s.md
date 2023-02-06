@@ -2,6 +2,7 @@ tags:: #article, #[[future of venture]], #[[venture capital]]
 link::  https://luttig.substack.com/p/when-tailwinds-vanish
 published:: [[Apr 22nd, 2020]]
 author:: [[John Luttig]]
+alias:: When Tailwinds Vanish
 
 - The Internet tailwinds that propelled Silicon Valley’s meteoric growth for decades are stalling out. The ripple effects will jolt the tech industry.
 - Like any mature industry, Silicon Valley must battle to maintain growth in the face of immense economic gravity. For the first time in Internet history, startup growth will require a push from the company and not a pull from the market. Unlike the organic pull that drove many of the dotcom-era successes, today’s Internet startups need to fight for growth by investing more heavily into sales, marketing, and operations.
