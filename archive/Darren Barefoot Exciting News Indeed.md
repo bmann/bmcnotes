@@ -7,7 +7,5 @@ type:: archive
   > 
   > <a href="https://darrenbarefoot.com/2004/01/28/exciting-news-indeed/" title="Vancouver Sun and Province Launch For-Pay Online Versions">Darren Barefoot: Exciting News Indeed</a>
 - In Ottawa, I used to get tons of calls about subscribing to the dead-tree version (usually to the <em>Ottawa Sun</em>, rather than the <em>Ottawa Citizen</em>). I told them I got all my news online or from the radio, and didn't read the newspaper. We've had subscriptions in the past, but I banned them, because by the end of just one week, there would be piles of unread newspapers all over the house.
-  
-  I will pick up and read a newspaper if it's around, especially in places like the ferry (they even have a recycle area where you can go to grab newspapers), but pay for them? Very rare instances. Do I feel for them? No, not really. They haven't changed with the times. The transition, just like the transition to online music, is going to be difficult and painful.
-  
-  <a href="http://dominionpaper.ca/">The Dominion</a> and the<a href="http://dominionpaper.ca/weblog/">Dominion Weblog</a> are an interesting "grassroots national newspaper". With RSS feeds, of course.
+- I will pick up and read a newspaper if it's around, especially in places like the ferry (they even have a recycle area where you can go to grab newspapers), but pay for them? Very rare instances. Do I feel for them? No, not really. They haven't changed with the times. The transition, just like the transition to online music, is going to be difficult and painful.
+- [The Dominion](https://web.archive.org/web/20040126163729/http://dominionpaper.ca/) and the [Dominion Weblog](https://web.archive.org/web/20040313115247/http://dominionpaper.ca/weblog/) are an interesting "grassroots national newspaper". With RSS feeds, of course. #Wayback
