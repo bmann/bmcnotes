@@ -1,5 +1,5 @@
 link:: https://fractalnetworks.co/
-tags:: #selfhost, #WireGuard, #Docker
+tags:: #selfhosted, #WireGuard, #Docker
 git:: https://gitlab.com/fractalnetworks
 
 - Self hosting network

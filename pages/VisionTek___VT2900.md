@@ -1,5 +1,5 @@
 link:: https://visiontek.com/products/vt2900-usb-c-kvm-docking-station-multi-display-mst-dock-100w-power-delivery
-tags:: #[[KVM Switch]], #hardware
+tags:: #[[KVM Switch]], #hardware, #product
 
 - USB-C Dual System KVM Docking Station with 100W Power Delivery
 - Manual
