@@ -1,5 +1,5 @@
-created:: [[May 21st, 2012]]
-tags:: #BMC
+published::  [[May 21st, 2012]]
+tags:: #BMC, #[[Blog Colophon]]
 
 - The first post — [[Welcome to B Mann Consulting]] — on this site running [[Drupal]] was November 9th, [[2002]]. The next post was asking for a [[Dream CMS]]. I don't think I've found it with [Octopress](http://octopress.org), but I'm having fun learning the ins and outs.
 - As of [[May 21st, 2012]] I've migrated the bulk of the BMC site to Octopress, and am hosting it directly on Amazon S3.

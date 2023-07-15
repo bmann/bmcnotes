@@ -1,9 +1,10 @@
 - It's archives all the way down! This is the archive version of how I've run my blog over the years.
-- The [[Colophon]] page covers "this" site, which is sort of a superset archive.
-- The plan is I'll keep it active from now on in this Digital Notes Garden format.
+- The [[Colophon]] page covers "this" site, which is sort of a superset archive of notes and longer form articles
+-
 - ## July 2020 - current
 	- The long(er) form content from the (original) `blog.bmannconsulting.com` has all been imported here.
-	- I swapped that blog domain to [[Micro.blog]], and that's where I post photos and short content, and sort of more non tech bloggy content. Yes, there is a [colophon there too](https://blog.bmannconsulting.com/colophon).
+	- That domain is now hosted at [[Micro.blog]], which is where I post photos and short content, and sort of more non tech bloggy content.
+	- Yes, there is a [colophon there too](https://blog.bmannconsulting.com/colophon), but mostly I'm not going to tinker with MicroBlog. Until I do
 - ## May 2020
 	- This blog is currently powered by [Jekyll 4](http://jekyllrb.com) hosted on [Netlify](http://netlify.com). Netlify builds the site from a private git repo on Github.
 	- I write short [social posts](https://blog.bmannconsulting.com/archives/social/) on my phone via [micropub](https://blog.bmannconsulting.com/tags/micropub/). There are a variety of [micropub clients](https://indieweb.org/micropub-clients) you can browse on the IndieWeb site. The [Indigenous native app for iOS](https://indieweb.org/Indigenous_for_iOS) works most reliably.
@@ -62,7 +63,7 @@
 		- Code for the site is edited with [Sublime Text](http://www.sublimetext.com/).
 	- ### Octopress on Heroku
 		- April 2012 - August 2013
-		- I archived my main site to Octopress-generated flat files on Amazon S3, and moved this site to Octopress on Heroku. I wrote up the details of the [migration from Drupal 6 to Octopress and Amazon S3](http://www.bmannconsulting.com/archive/migration/).
+		- I archived my main site to Octopress-generated flat files on Amazon S3, and moved this site to Octopress on Heroku. I wrote up the details of the [migration from Drupal 6 to Octopress and Amazon S3]([[Migration]]).
 		- For both sites, the entire source was / is in my own Dropbox account, so that I could create drafts and edits on any machine. This site was also in a private git repo on Bitbucket. I still needed to have the entire Ruby / Octopress build chain available on some machine to create new entries.
 	- ### Posterous
 		- January 2010 - April 2012
