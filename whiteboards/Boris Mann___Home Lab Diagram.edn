@@ -1,0 +1,199 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64b381f2-6641-4dc3-bfb2-fead2682b1fc"}
+:block/parent 
+{:block/uuid #uuid "64b381f2-6641-4dc3-bfb2-fead2682b1fc"}
+:block/properties 
+{}
+:block/uuid #uuid "64b38226-c786-47ce-9df0-8e86ae17c8ff"} 
+{:block/created-at 1689486101158
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "UniFi/Dream Machine"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [200 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e9bf53f0-239a-11ee-b27c-59b110b41c95"
+:noFill false
+:point [88 216]
+:parentId "64b381f2-6641-4dc3-bfb2-fead2682b1fc"
+:collapsedHeight 75.675
+:nonce 1689485875261}}
+:block/updated-at 1689486101158} 
+{:block/created-at 1689486104657
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Oxio Cable Modem"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [176 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1ef32ba0-239b-11ee-b27c-59b110b41c95"
+:noFill false
+:point [88 136]
+:parentId "64b381f2-6641-4dc3-bfb2-fead2682b1fc"
+:collapsedHeight 94.59375
+:nonce 1689485964430}}
+:block/updated-at 1689486104657} 
+{:block/created-at 1689486247347
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Mac Mini"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [104 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "779c0240-239b-11ee-b27c-59b110b41c95"
+:noFill false
+:point [416 336]
+:parentId "64b381f2-6641-4dc3-bfb2-fead2682b1fc"
+:collapsedHeight 1223.2890625
+:nonce 1689486113142}}
+:block/updated-at 1689486247347} 
+{:block/created-at 1689486245207
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "VisionTek/VT2900"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [168 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a401aba0-239b-11ee-b27c-59b110b41c95"
+:noFill false
+:point [520 248]
+:parentId "64b381f2-6641-4dc3-bfb2-fead2682b1fc"
+:collapsedHeight 1173.125
+:nonce 1689486187762}}
+:block/updated-at 1689486245207} 
+{:block/created-at 1689486250305
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "Apple/Macbook Air M1 2020"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [248 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b2f49320-239b-11ee-b27c-59b110b41c95"
+:noFill false
+:point [656 336]
+:parentId "64b381f2-6641-4dc3-bfb2-fead2682b1fc"
+:collapsedHeight 232.78125
+:nonce 1689486212785}}
+:block/updated-at 1689486250305} 
+{:block/created-at 1689486274586
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "Asus VG289Q Monitor"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [216 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "cab003a0-239b-11ee-b27c-59b110b41c95"
+:noFill false
+:point [392 136]
+:parentId "64b381f2-6641-4dc3-bfb2-fead2682b1fc"
+:collapsedHeight 264.96875
+:nonce 1689486252385}}
+:block/updated-at 1689486274586})
+:pages (
+{:block/uuid #uuid "64b381f2-6641-4dc3-bfb2-fead2682b1fc"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64b381f2-6641-4dc3-bfb2-fead2682b1fc"
+:name "boris mann/home lab diagram"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("e9bf53f0-239a-11ee-b27c-59b110b41c95" "1ef32ba0-239b-11ee-b27c-59b110b41c95" "779c0240-239b-11ee-b27c-59b110b41c95" "a401aba0-239b-11ee-b27c-59b110b41c95" "b2f49320-239b-11ee-b27c-59b110b41c95" "cab003a0-239b-11ee-b27c-59b110b41c95")}}
+:block/journal? false
+:block/namespace 
+{:db/id 12556}
+:block/updated-at 1689486274586
+:block/created-at 1689485810853
+:block/format :markdown
+:block/type "whiteboard"
+:block/name "boris mann/home lab diagram"
+:block/original-name "Boris Mann/Home Lab Diagram"})}

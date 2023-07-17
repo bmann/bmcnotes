@@ -27,6 +27,7 @@ type:: page
 				  .content .pre-block {display: none}
 				  ```
 - ## SimplyJekyll, Sept 2020 - Dec 2022
+  id:: 647e2ae6-2289-414b-8655-806865bd3671
 	- Archived version available at https://2022.bmannconsulting.com/
 	- [[Simply Jekyll]] powered #Jekyll site
 	- Publishing via [[Github/Pages]] to #Fission on #ipfs

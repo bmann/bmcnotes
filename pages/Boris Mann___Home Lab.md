@@ -1,4 +1,5 @@
 - My [[Home Lab]]
+-
 - Hardware
 	- [[Mac Mini]] running [[MacOS/Ventura]]
 	- [[Asus VG289Q Monitor]] 28" 4K monitor
