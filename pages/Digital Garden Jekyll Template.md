@@ -2,6 +2,7 @@ github:: https://github.com/maximevaillancourt/digital-garden-jekyll-template
 link:: https://digital-garden-jekyll-template.netlify.app/
 tags:: #Jekyll, #[[Digital Garden]] 
 author:: [[Maxime Vaillancourt]]
+alias::  DGJ
 
 - The author [[Maxime Vaillancourt]] has a tutorial on [setting up your own digital garden](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) [[May 20th, 2020]]
 	- With #Obsidian: [Obsidian Jekyll Workflow](https://refinedmind.co/obsidian-jekyll-workflow)
