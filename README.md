@@ -1,10 +1,7 @@
-# Boris Mann's Digital Garden
+# Boris Mann's Digital Garden Notes
 
-Live at <https://bmannconsulting.com>. 
+Live at <https://notes.bmannconsulting.com>. 
 
 Running [LogSeq](https://logseq.com)
-
 * The [pengx17/logseq-publish](https://github.com/pengx17/logseq-publish) Github Action builds the site
-* Published to IPFS via [fission-codes/publish-action](https://github.com/fission-codes/publish-action)
 
-Read the [Colophon](https://bmannconsulting.com/#/page/colophon) for full details.

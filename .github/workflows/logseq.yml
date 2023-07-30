@@ -1,10 +1,10 @@
-name: Publish LogSeq to Fission
+name: Publish LogSeq to GH Pages
 
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push events
   push:
-    branches: [ "logseqconversion" ]
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,14 +22,14 @@ jobs:
         uses: pengx17/logseq-publish@0.1.7
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
-      # - name: Deploy 🚀 # GH Pages Deploy
-      #  uses: JamesIves/github-pages-deploy-action@4.1.9
-      #  with:
-      #    branch: gh-pages # The branch the action should deploy to.
-      #    folder: www # The folder the action should deploy.
-      #    # clean: true # don't overwrite jekyll rendered content in there
-      - name: 🚀 fission publish # Fission Deploy
-        uses: fission-suite/publish-action@v1
+      - name: Deploy 🚀 # GH Pages Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.9
         with:
-            machine_key: ${{ secrets.FISSION_KEY }}
-            build_dir: www
+          branch: gh-pages # The branch the action should deploy to.
+          folder: www # The folder the action should deploy.
+          clean: false # don't overwrite jekyll rendered content in there
+      # - name: 🚀 fission publish # Fission Deploy
+      #  uses: fission-suite/publish-action@v1
+      #  with:
+      #      machine_key: ${{ secrets.FISSION_KEY }}
+      #      build_dir: www
