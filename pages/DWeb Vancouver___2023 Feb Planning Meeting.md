@@ -17,7 +17,7 @@
 	- Or: maybe [[CanTrust Hosting Coop]] can sponsor email hosting?
 - Volunteers per event as part of bootstrapping more conveners?
 	- Learning by doing, recruiting
-- TODO Create a GitHub org #dwebyvr
-- TODO Write up notes in HackMD #dwebyvr
+- TODO Create a GitHub org #DWebYVR
+- TODO Write up notes in HackMD #DWebYVR
 -
 -

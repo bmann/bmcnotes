@@ -1,4 +1,4 @@
-tags:: #event, #vancouver, #DWeb, #dwebyvr 
+tags:: #event, #vancouver, #DWeb, #DWebYVR 
 event-start:: [[Jan 25th, 2023]]
 location:: [[The Permanent]]
 
