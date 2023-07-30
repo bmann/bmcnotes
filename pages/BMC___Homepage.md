@@ -1,0 +1,4 @@
+- My root domain https://bmannconsulting.com
+- Meant for tech blogging and as a long term archive
+- Running [[Digital Garden Jekyll Template]]
+-

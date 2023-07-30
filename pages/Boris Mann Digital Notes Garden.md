@@ -1,5 +1,5 @@
 filters:: {"bmc/backlog" false, "Dec 29th, 2022" false, "contents" false}
-alias:: Home
+alias:: Seeds
 public:: true
 
 - This is my space for Notes, saving and highlighting Articles. It's a [[Second Brain]] or personal wiki.

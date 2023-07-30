@@ -1,9 +1,6 @@
----
-title: Licensing
----
+tags:: #[[To Convert]]
 
-Licensing, and "open source" licensing in particular, is something I've spent a lot of time on.
-
+- Licensing, and "open source" licensing in particular, is something I've spent a lot of time on.
 # Presentations
 # Licenses
 

@@ -1,0 +1,2 @@
+- #Wiki -style links, denoted by `[[` double square brackets `]]`
+- If a page with the name exists, links to it, otherwise indicates that the page doesn't exist yet or makes it very easy to click on it to create a page with that name that will then be linked to it's reference
