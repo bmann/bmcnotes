@@ -1,4 +1,4 @@
-tags:: #book, #scifi, #toread
+tags:: #book, #scifi, #completed 
 author:: [[Liu Cixin]]
 
 -

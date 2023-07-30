@@ -1,2 +1,2 @@
-tags:: #book, #reading
+tags:: #book, #completed 
 author:: [[Gabrielle Zevin]]
