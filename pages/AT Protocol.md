@@ -1,6 +1,7 @@
 link:: https://atproto.com/
 tags:: #protocol, #DWeb, #DID
 github:: https://github.com/bluesky-social/atproto
+alias:: atprotocol
 
 - The protocol being built by [[Bluesky]]
 - Federated social
