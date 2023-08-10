@@ -1,6 +1,7 @@
 - Reading
 	- {{query (and (page-property tags book) (page-property tags reading))}}
-	  query-properties:: [:page :author :link :book-cover]
+	  query-properties:: [:page :author :book-cover]
+	  query-table:: true
 - To Read
 	- {{query (and (page-property tags book) (page-property tags toread))}}
 	  query-properties:: [:page :author]
