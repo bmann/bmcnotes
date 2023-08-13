@@ -1,5 +1,5 @@
 link:: https://www.openfunk.co/pages/re-mix
-tags:: #Berlin
+tags:: #Berlin, #product
 
 - This is one of the first products I’ve seen that explicitly suggests that it should be produced locally rather than shipped
 - From the home page:
