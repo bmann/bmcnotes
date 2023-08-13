@@ -1,8 +1,8 @@
-link:: https://www.betaworks.com/thinkcamp-demo-day
+link:: https://www.betaworks.com/thinkcamp-demo-day/
+date:: [[Dec 7th, 2022]]
+tags:: #event, #THINKCamp, #Betaworks, #NYC
+video:: https://vimeo.com/event/2683190/embed
 
-- date:: [[Dec 7th, 2022]]
-- tags:: #event, #THINKCamp, #Betaworks, #NYC
-- video:: https://vimeo.com/event/2683190/embed
 - [[Fermat]]
 	- Fermat is a programmable spatial canvas that augments traditional workflows like brainstorming , copywriting or project management using Generative AI.
 - [[Gems Notes]]
