@@ -7,4 +7,3 @@ linkedin:: https://linkedin.com/in/boris
 
 - The author of this site
 - I have a [Neocities page at bmann.ca](https://bmann.ca) that links to various profiles
--

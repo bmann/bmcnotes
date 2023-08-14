@@ -1,4 +1,4 @@
-tags:: #selfhosted, #quote
+tags:: #selfhosted, #phrase
 author:: [[boris mann]]
 
 - Running something in single user mode for self hosting means that you are expending a lot of effort for just yourself

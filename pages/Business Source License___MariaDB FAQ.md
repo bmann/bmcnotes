@@ -1,0 +1,9 @@
+link:: https://mariadb.com/bsl-faq-mariadb/
+tags:: #licensing, #MariaDB
+
+- How is the BSL different from [[Open Core]]?
+	- Open core offers some code under Open Source terms, but non-core code is not under Open Source terms, is not available in source form, cannot be modified and compiled, cannot be contributed to, and will never be Open Source. By using Open Core software, like with closed source code, you are locked to one vendor. With BSL, as compared to Open Core, the source code is available from the start, can be modified and compiled, contributions are encouraged, the product will become fully Open Source after a period of time and remains free for non-production use. The importance of the eventual Open Source is that users are free from vendor lock-in. If the vendor decides to stop contributing to the code, users have open access and can modify, update and extend as needed.
+- How is the BSL different from dual GPL/commercial licensing?
+	- When using [[dual licensing]] with #GPL, companies must pay for a commercial license to use the software with their closed source code. With BSL, the companies are only paying for the software if they want to make production use of the software. ==From a vendor perspective, GPL dual licensing only works for infrastructure products that other companies want to deeply embed in their product. BSL works for any kind of software product.==
+- How is BSL different from the [[Fair Source License]] ?
+	- The Fair Source License uses the number of users as a limitation, which makes sense for some types of software such as stand-alone applications, but not for all. BSL limitations are more general and can vary from project to project by including an Additional Use Grant, depending on what makes sense for a balance between free usage and paid usage. In addition, BSL code is guaranteed to become Open Source software after a certain specified time.

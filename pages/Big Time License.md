@@ -1,6 +1,7 @@
 link:: https://bigtimelicense.com/
 author:: [[Kyle Mitchell]]
 tags:: #Licensing, #opensource, #noncommercial
+alias:: Big Time Public License, Big Time
 description:: a public license that makes software free for noncommercial and small-business use, with a guarantee that fair, reasonable, and nondiscriminatory paid-license terms will be available for everyone else
 
 - A public license that makes software free for noncommercial and small-business use, with a guarantee that fair, reasonable, and nondiscriminatory paid-license terms will be available for everyone else

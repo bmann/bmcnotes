@@ -1,6 +1,7 @@
 alias:: CAL
-tags:: #opensource, #Licensing
+tags:: #opensource, #licensing, #OSI 
 spdx:: CAL-1.0
+link:: https://opensource.org/license/cal-1-0/
 
 - Begin License Text
 	- #+BEGIN_CENTER
@@ -13,8 +14,7 @@ spdx:: CAL-1.0
 	- SPDX-License-Identifier: CAL-1.0-Combined-Work-Exception
 	  Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception
 	- ______________________________________________________________________
-	- collapsed:: true
-	  1. Purpose
+	- 1. Purpose
 		- This License gives You unlimited permission to use and modify the software to which it applies (the “Work”), either as-is or in modified form, for Your private purposes, while protecting the owners and contributors to the software from liability.
 		- This License also strives to protect the freedom and autonomy of third parties who receive the Work from you. If any non-affiliated third party receives any part, aspect, or element of the Work from You, this License requires that You provide that third party all the permissions and materials needed to independently use and modify the Work without that third party having a loss of data or capability due to your actions.
 		- The full permissions, conditions, and other terms are laid out below.

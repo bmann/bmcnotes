@@ -1,0 +1,11 @@
+link:: https://mariadb.com/bsl-faq-adopting/
+
+- Quotes of portions of the BSL FAQ
+- Business Source License (BSL) was created by David Axmark and Michael Widenius to provide a mutually beneficial balance between the user benefits of true Open Source software that is free of cost and provides open access to all of the product code for modification, distribution, etc., and the sustainability needs of software developers to continue delivering product innovation and maintenance.
+- The BSL is structured to allow free and open usage for the majority of use cases, and only requires a commercial license by those who use the software above a certain threshold, which is typically indicative of an environment that is delivering significant value to a business.
+- BSL gives users complete access to the source code so users can modify, distribute and enhance it. It also guarantees a path for the software to become Open Source over time so that users will never be locked into a single vendor. These features help preserve the critical freedom aspects of Open Source (as defined by the [[Open Source Initiative]] in the [[Open Source Definition]]) while enabling a viable business model for professional software developers.
+- This FAQ is designed to address questions for any developer, or any company, interested in working on BSL software or adopting BSL for their own business.
+- What is Business Source License (BSL)?
+	- > BSL is a new alternative to Closed Source or Open Core licensing models. Under BSL, the source code is freely available from the start and it is guaranteed to become Open Source at a certain point in time (i.e., the Change Date). Usage below a specific level in the BSL is always completely free. Usage above the specified level requires a license from the vendor until the Change Date, at which point all usage becomes free.
+- What is the purpose of BSL?
+	- > To create a license that strikes a balance between being able to run a financially viable software company while still supporting the original tenets of Open Source, such as empowering all software developers to be part of the innovation cycle – giving them open access to the code so they can modify or distribute the software by making the entire source code available from the start. Ultimately, we hope that BSL will create more Open Source software.
