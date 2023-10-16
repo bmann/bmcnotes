@@ -1,0 +1,2 @@
+- The Mastodon server is on the root domain at `toolsforthought.rocks`
+-
