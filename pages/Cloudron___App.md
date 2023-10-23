@@ -1,0 +1,14 @@
+- A list of officially packaged Cloudron Apps
+	- [[Cal.com]]
+	- [[Vaultwarden]]
+	- [[Surfer]]
+	- [[Mastodon]]
+	- [[Discourse]]
+	- [[Pixelfed]]
+	- [[Immich]]
+	- [[Gitea]]
+	- [[Jitsi]]
+	- [[Joplin]]
+	- [[Nextcloud]]
+	- [[Baserow]]
+	-
