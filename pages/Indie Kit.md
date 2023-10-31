@@ -2,6 +2,7 @@ link:: https://getindiekit.com/
 github:: https://github.com/getindiekit/indiekit
 tags:: #micropub, #IndieWeb, #NodeJS 
 author:: [[Paul Robert Lloyd]]
+alias:: IndieKit
 
 - From the [Github README](https://github.com/getindiekit/indiekit):
     > Indiekit is a small but powerful server that acts as the go-between your website and the wider independent web.
