@@ -1,0 +1,6 @@
+- My LinkedIn: https://linkedin.com/in/boris/
+- About
+	- Boris is the Co-Founder of [[Fission]] , working on the mission of bringing decentralized web technologies to the wider development community by solving real problems today & exploring fundamental shifts in the way we host, deploy, and run software for humans.
+	- Boris has built communities locally and globally, scaling them to tens of thousands of contributors. The last time around it was blogging, open source, and the beginnings of cloud computing, building the Drupal community with the first commercial company supporting the software. He helped found the Drupal Association and organized the global developer meetups until they scaled into the 1000s of attendees. Boris has a history of venture building, as an advisor and investor, founding the first startup accelerator in Canada, running the Full Stack seed fund, and being an active member of Canada’s entrepreneurial community.
+	- Boris has spent time growing the global Ethereum community, as volunteer with Ethereum Magicians, including helping to organize events in Berlin, Prague, and Paris.
+	- Boris understands open source, community, and developer relations, as well as handling operations & finance for early stage companies.

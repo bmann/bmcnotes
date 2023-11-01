@@ -1,0 +1,2 @@
+- For [[Stolon Mesh]]
+	- Boris is a long time technologist, entrepreneur, & community builder both on and offline in Vancouver and beyond. Boris is the founder of Fission, a startup working on developer tools supporting user-owned data and decentralized computing. Locally, he's helping to grow the DWeb Vancouver community, and is a board member of the CoSocial Community Cooperative, building Canadian owned social media. He likes to cook & eat.
