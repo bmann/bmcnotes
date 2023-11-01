@@ -1,0 +1,3 @@
+- Licensed under a [[fair-code]] software model
+- [[Sustainable Use License]] and [[n8n Enterprise License]]
+-
